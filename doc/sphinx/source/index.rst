@@ -13,5 +13,12 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Documentation du projet
 
+   montage_raspberry_pi5
+   installation_ubuntu_pi5
+   installation_ros2_pi5
+   materiel_plateforme_pantographe
+   mecanique_plateforme_pantographe
+   fonctionnement_dynamixels
+   generation_urdf_pantographe
